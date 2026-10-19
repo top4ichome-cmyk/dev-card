@@ -1,5 +1,5 @@
 body {
-   background: black
+   background: black;
 }
 
 h1 {
@@ -9,4 +9,12 @@ h1 {
 ul {
     color:aquamarine;
     font-size: 30px;
+}
+h2{
+    color: aquamarine;
+    font-size: 40px;
+}
+p {
+   color: aquamarine;
+    font-size: 15px; 
 }
